@@ -1,0 +1,346 @@
+[2022-02-13 00:00:22,788] {processor.py:163} INFO - Started process (PID=416558) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:00:22,799] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:00:22,801] {logging_mixin.py:109} INFO - [2022-02-13 00:00:22,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:00:24,837] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:00:24,853] {logging_mixin.py:109} INFO - [2022-02-13 00:00:24,852] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:00:24,894] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 2.127 seconds
+[2022-02-13 00:00:55,035] {processor.py:163} INFO - Started process (PID=416590) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:00:55,038] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:00:55,039] {logging_mixin.py:109} INFO - [2022-02-13 00:00:55,039] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:00:56,020] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:00:56,040] {logging_mixin.py:109} INFO - [2022-02-13 00:00:56,039] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:00:56,069] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.038 seconds
+[2022-02-13 00:01:26,219] {processor.py:163} INFO - Started process (PID=416619) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:01:26,224] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:01:26,225] {logging_mixin.py:109} INFO - [2022-02-13 00:01:26,225] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:01:27,113] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:01:27,131] {logging_mixin.py:109} INFO - [2022-02-13 00:01:27,131] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:01:27,162] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.948 seconds
+[2022-02-13 00:01:29,644] {processor.py:163} INFO - Started process (PID=416629) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:01:29,646] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:01:29,647] {logging_mixin.py:109} INFO - [2022-02-13 00:01:29,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:01:30,565] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:01:30,815] {logging_mixin.py:109} INFO - [2022-02-13 00:01:30,815] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:01:30,834] {logging_mixin.py:109} INFO - [2022-02-13 00:01:30,834] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-02-01T00:00:00+00:00
+[2022-02-13 00:01:30,852] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.213 seconds
+[2022-02-13 00:02:01,769] {processor.py:163} INFO - Started process (PID=416667) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:02:01,775] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:02:01,776] {logging_mixin.py:109} INFO - [2022-02-13 00:02:01,776] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:02:02,653] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:02:02,664] {logging_mixin.py:109} INFO - [2022-02-13 00:02:02,664] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:02:02,696] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.932 seconds
+[2022-02-13 00:02:32,803] {processor.py:163} INFO - Started process (PID=416698) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:02:32,805] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:02:32,806] {logging_mixin.py:109} INFO - [2022-02-13 00:02:32,806] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:02:33,693] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:02:33,705] {logging_mixin.py:109} INFO - [2022-02-13 00:02:33,705] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:02:33,735] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.936 seconds
+[2022-02-13 00:03:03,841] {processor.py:163} INFO - Started process (PID=416739) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:03:03,847] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:03:03,848] {logging_mixin.py:109} INFO - [2022-02-13 00:03:03,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:03:04,968] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:03:04,984] {logging_mixin.py:109} INFO - [2022-02-13 00:03:04,984] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:03:05,024] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.190 seconds
+[2022-02-13 00:03:36,015] {processor.py:163} INFO - Started process (PID=416770) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:03:36,021] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:03:36,022] {logging_mixin.py:109} INFO - [2022-02-13 00:03:36,022] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:03:36,961] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:03:36,972] {logging_mixin.py:109} INFO - [2022-02-13 00:03:36,972] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:03:37,000] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.990 seconds
+[2022-02-13 00:04:07,124] {processor.py:163} INFO - Started process (PID=416799) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:04:07,125] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:04:07,126] {logging_mixin.py:109} INFO - [2022-02-13 00:04:07,126] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:04:08,114] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:04:08,132] {logging_mixin.py:109} INFO - [2022-02-13 00:04:08,131] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:04:08,176] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.057 seconds
+[2022-02-13 00:04:38,269] {processor.py:163} INFO - Started process (PID=416841) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:04:38,271] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:04:38,272] {logging_mixin.py:109} INFO - [2022-02-13 00:04:38,272] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:04:39,172] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:04:39,183] {logging_mixin.py:109} INFO - [2022-02-13 00:04:39,183] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:04:39,213] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.949 seconds
+[2022-02-13 00:05:09,371] {processor.py:163} INFO - Started process (PID=416871) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:09,373] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:05:09,374] {logging_mixin.py:109} INFO - [2022-02-13 00:05:09,374] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:10,280] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:10,292] {logging_mixin.py:109} INFO - [2022-02-13 00:05:10,292] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:05:10,322] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.956 seconds
+[2022-02-13 00:05:40,469] {processor.py:163} INFO - Started process (PID=416910) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:40,472] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:05:40,473] {logging_mixin.py:109} INFO - [2022-02-13 00:05:40,473] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:41,432] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:41,443] {logging_mixin.py:109} INFO - [2022-02-13 00:05:41,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:05:41,472] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.008 seconds
+[2022-02-13 00:05:56,529] {processor.py:163} INFO - Started process (PID=416925) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:56,531] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:05:56,532] {logging_mixin.py:109} INFO - [2022-02-13 00:05:56,532] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:57,401] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:05:57,647] {logging_mixin.py:109} INFO - [2022-02-13 00:05:57,647] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:05:57,681] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.157 seconds
+[2022-02-13 00:06:27,815] {processor.py:163} INFO - Started process (PID=416956) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:06:27,818] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:06:27,819] {logging_mixin.py:109} INFO - [2022-02-13 00:06:27,819] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:06:28,745] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:06:28,756] {logging_mixin.py:109} INFO - [2022-02-13 00:06:28,756] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:06:28,784] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.975 seconds
+[2022-02-13 00:06:58,952] {processor.py:163} INFO - Started process (PID=416986) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:06:58,955] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:06:58,956] {logging_mixin.py:109} INFO - [2022-02-13 00:06:58,956] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:06:59,931] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:06:59,947] {logging_mixin.py:109} INFO - [2022-02-13 00:06:59,946] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:06:59,984] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.038 seconds
+[2022-02-13 00:07:30,105] {processor.py:163} INFO - Started process (PID=417028) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:07:30,108] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:07:30,109] {logging_mixin.py:109} INFO - [2022-02-13 00:07:30,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:07:31,412] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:07:31,427] {logging_mixin.py:109} INFO - [2022-02-13 00:07:31,427] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:07:31,456] {logging_mixin.py:109} INFO - [2022-02-13 00:07:31,456] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-03-01T00:00:00+00:00
+[2022-02-13 00:07:31,474] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.375 seconds
+[2022-02-13 00:08:01,519] {processor.py:163} INFO - Started process (PID=417062) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:08:01,524] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:08:01,525] {logging_mixin.py:109} INFO - [2022-02-13 00:08:01,525] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:08:02,415] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:08:02,428] {logging_mixin.py:109} INFO - [2022-02-13 00:08:02,427] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:08:02,448] {logging_mixin.py:109} INFO - [2022-02-13 00:08:02,447] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-04-01T00:00:00+00:00
+[2022-02-13 00:08:02,460] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.945 seconds
+[2022-02-13 00:08:32,585] {processor.py:163} INFO - Started process (PID=417096) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:08:32,586] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:08:32,587] {logging_mixin.py:109} INFO - [2022-02-13 00:08:32,587] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:08:33,439] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:08:33,450] {logging_mixin.py:109} INFO - [2022-02-13 00:08:33,450] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:08:33,470] {logging_mixin.py:109} INFO - [2022-02-13 00:08:33,470] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-05-01T00:00:00+00:00
+[2022-02-13 00:08:33,481] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.901 seconds
+[2022-02-13 00:09:03,599] {processor.py:163} INFO - Started process (PID=417140) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:09:03,602] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:09:03,603] {logging_mixin.py:109} INFO - [2022-02-13 00:09:03,603] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:09:04,482] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:09:04,493] {logging_mixin.py:109} INFO - [2022-02-13 00:09:04,493] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:09:04,521] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.927 seconds
+[2022-02-13 00:09:34,824] {processor.py:163} INFO - Started process (PID=417169) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:09:34,825] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:09:34,826] {logging_mixin.py:109} INFO - [2022-02-13 00:09:34,826] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:09:35,657] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:09:35,668] {logging_mixin.py:109} INFO - [2022-02-13 00:09:35,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:09:35,697] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.877 seconds
+[2022-02-13 00:10:05,797] {processor.py:163} INFO - Started process (PID=417209) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:10:05,800] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:10:05,802] {logging_mixin.py:109} INFO - [2022-02-13 00:10:05,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:10:06,981] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:10:06,996] {logging_mixin.py:109} INFO - [2022-02-13 00:10:06,996] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:10:07,037] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.246 seconds
+[2022-02-13 00:10:37,159] {processor.py:163} INFO - Started process (PID=417240) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:10:37,162] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:10:37,163] {logging_mixin.py:109} INFO - [2022-02-13 00:10:37,163] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:10:38,015] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:10:38,026] {logging_mixin.py:109} INFO - [2022-02-13 00:10:38,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:10:38,054] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.900 seconds
+[2022-02-13 00:11:08,172] {processor.py:163} INFO - Started process (PID=417272) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:11:08,174] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:11:08,175] {logging_mixin.py:109} INFO - [2022-02-13 00:11:08,175] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:11:09,030] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:11:09,042] {logging_mixin.py:109} INFO - [2022-02-13 00:11:09,041] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:11:09,069] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.902 seconds
+[2022-02-13 00:11:39,514] {processor.py:163} INFO - Started process (PID=417318) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:11:39,516] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:11:39,517] {logging_mixin.py:109} INFO - [2022-02-13 00:11:39,517] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:11:40,336] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:11:40,348] {logging_mixin.py:109} INFO - [2022-02-13 00:11:40,347] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:11:40,375] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.866 seconds
+[2022-02-13 00:12:11,131] {processor.py:163} INFO - Started process (PID=417354) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:12:11,134] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:12:11,135] {logging_mixin.py:109} INFO - [2022-02-13 00:12:11,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:12:11,968] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:12:11,979] {logging_mixin.py:109} INFO - [2022-02-13 00:12:11,979] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:12:12,007] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.881 seconds
+[2022-02-13 00:12:42,401] {processor.py:163} INFO - Started process (PID=417395) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:12:42,404] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:12:42,405] {logging_mixin.py:109} INFO - [2022-02-13 00:12:42,405] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:12:43,571] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:12:43,586] {logging_mixin.py:109} INFO - [2022-02-13 00:12:43,585] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:12:43,624] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.230 seconds
+[2022-02-13 00:13:14,415] {processor.py:163} INFO - Started process (PID=417431) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:13:14,417] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:13:14,418] {logging_mixin.py:109} INFO - [2022-02-13 00:13:14,418] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:13:15,242] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:13:15,253] {logging_mixin.py:109} INFO - [2022-02-13 00:13:15,252] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:13:15,279] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.869 seconds
+[2022-02-13 00:13:45,370] {processor.py:163} INFO - Started process (PID=417468) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:13:45,372] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:13:45,373] {logging_mixin.py:109} INFO - [2022-02-13 00:13:45,373] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:13:46,208] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:13:46,223] {logging_mixin.py:109} INFO - [2022-02-13 00:13:46,222] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:13:46,247] {logging_mixin.py:109} INFO - [2022-02-13 00:13:46,246] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-06-01T00:00:00+00:00
+[2022-02-13 00:13:46,260] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.895 seconds
+[2022-02-13 00:14:16,312] {processor.py:163} INFO - Started process (PID=417517) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:14:16,314] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:14:16,314] {logging_mixin.py:109} INFO - [2022-02-13 00:14:16,314] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:14:17,163] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:14:17,183] {logging_mixin.py:109} INFO - [2022-02-13 00:14:17,182] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:14:17,227] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.920 seconds
+[2022-02-13 00:14:47,607] {processor.py:163} INFO - Started process (PID=417552) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:14:47,609] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:14:47,610] {logging_mixin.py:109} INFO - [2022-02-13 00:14:47,610] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:14:48,545] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:14:48,558] {logging_mixin.py:109} INFO - [2022-02-13 00:14:48,557] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:14:48,588] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.986 seconds
+[2022-02-13 00:15:18,643] {processor.py:163} INFO - Started process (PID=417596) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:15:18,645] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:15:18,646] {logging_mixin.py:109} INFO - [2022-02-13 00:15:18,646] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:15:19,571] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:15:19,583] {logging_mixin.py:109} INFO - [2022-02-13 00:15:19,583] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:15:19,614] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.977 seconds
+[2022-02-13 00:15:49,859] {processor.py:163} INFO - Started process (PID=417629) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:15:49,862] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:15:49,863] {logging_mixin.py:109} INFO - [2022-02-13 00:15:49,862] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:15:50,761] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:15:50,772] {logging_mixin.py:109} INFO - [2022-02-13 00:15:50,771] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:15:50,805] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.952 seconds
+[2022-02-13 00:16:20,969] {processor.py:163} INFO - Started process (PID=417664) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:16:20,976] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:16:20,980] {logging_mixin.py:109} INFO - [2022-02-13 00:16:20,979] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:16:22,562] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:16:22,580] {logging_mixin.py:109} INFO - [2022-02-13 00:16:22,579] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:16:22,626] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.692 seconds
+[2022-02-13 00:16:53,177] {processor.py:163} INFO - Started process (PID=417707) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:16:53,179] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:16:53,180] {logging_mixin.py:109} INFO - [2022-02-13 00:16:53,180] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:16:54,067] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:16:54,089] {logging_mixin.py:109} INFO - [2022-02-13 00:16:54,089] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:16:54,117] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.945 seconds
+[2022-02-13 00:17:24,483] {processor.py:163} INFO - Started process (PID=417746) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:17:24,484] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:17:24,485] {logging_mixin.py:109} INFO - [2022-02-13 00:17:24,485] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:17:25,392] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:17:25,406] {logging_mixin.py:109} INFO - [2022-02-13 00:17:25,405] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:17:25,434] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.956 seconds
+[2022-02-13 00:17:55,497] {processor.py:163} INFO - Started process (PID=417793) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:17:55,499] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:17:55,501] {logging_mixin.py:109} INFO - [2022-02-13 00:17:55,500] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:17:56,935] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:17:56,952] {logging_mixin.py:109} INFO - [2022-02-13 00:17:56,951] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:17:56,987] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.498 seconds
+[2022-02-13 00:18:27,114] {processor.py:163} INFO - Started process (PID=417827) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:18:27,116] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:18:27,116] {logging_mixin.py:109} INFO - [2022-02-13 00:18:27,116] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:18:27,950] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:18:27,962] {logging_mixin.py:109} INFO - [2022-02-13 00:18:27,961] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:18:27,991] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.882 seconds
+[2022-02-13 00:18:58,834] {processor.py:163} INFO - Started process (PID=417862) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:18:58,837] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:18:58,838] {logging_mixin.py:109} INFO - [2022-02-13 00:18:58,838] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:18:59,741] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:18:59,752] {logging_mixin.py:109} INFO - [2022-02-13 00:18:59,752] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:18:59,772] {logging_mixin.py:109} INFO - [2022-02-13 00:18:59,772] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-07-01T00:00:00+00:00
+[2022-02-13 00:18:59,786] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.957 seconds
+[2022-02-13 00:19:29,966] {processor.py:163} INFO - Started process (PID=417912) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:19:29,968] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:19:29,968] {logging_mixin.py:109} INFO - [2022-02-13 00:19:29,968] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:19:30,928] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:19:30,940] {logging_mixin.py:109} INFO - [2022-02-13 00:19:30,940] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:19:30,960] {logging_mixin.py:109} INFO - [2022-02-13 00:19:30,960] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-08-01T00:00:00+00:00
+[2022-02-13 00:19:30,972] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.011 seconds
+[2022-02-13 00:20:01,085] {processor.py:163} INFO - Started process (PID=417952) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:20:01,088] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:20:01,088] {logging_mixin.py:109} INFO - [2022-02-13 00:20:01,088] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:20:01,955] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:20:01,968] {logging_mixin.py:109} INFO - [2022-02-13 00:20:01,968] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:20:01,988] {logging_mixin.py:109} INFO - [2022-02-13 00:20:01,988] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-09-01T00:00:00+00:00
+[2022-02-13 00:20:02,001] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.923 seconds
+[2022-02-13 00:20:32,310] {processor.py:163} INFO - Started process (PID=418000) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:20:32,312] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:20:32,313] {logging_mixin.py:109} INFO - [2022-02-13 00:20:32,313] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:20:33,420] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:20:33,430] {logging_mixin.py:109} INFO - [2022-02-13 00:20:33,430] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:20:33,449] {logging_mixin.py:109} INFO - [2022-02-13 00:20:33,447] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-10-01T00:00:00+00:00
+[2022-02-13 00:20:33,461] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.157 seconds
+[2022-02-13 00:21:03,619] {processor.py:163} INFO - Started process (PID=418037) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:21:03,622] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:21:03,622] {logging_mixin.py:109} INFO - [2022-02-13 00:21:03,622] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:21:04,502] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:21:04,513] {logging_mixin.py:109} INFO - [2022-02-13 00:21:04,513] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:21:04,542] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.929 seconds
+[2022-02-13 00:21:35,478] {processor.py:163} INFO - Started process (PID=418071) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:21:35,481] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:21:35,482] {logging_mixin.py:109} INFO - [2022-02-13 00:21:35,482] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:21:36,431] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:21:36,446] {logging_mixin.py:109} INFO - [2022-02-13 00:21:36,445] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:21:36,483] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.010 seconds
+[2022-02-13 00:22:06,578] {processor.py:163} INFO - Started process (PID=418117) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:22:06,581] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:22:06,582] {logging_mixin.py:109} INFO - [2022-02-13 00:22:06,582] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:22:07,490] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:22:07,504] {logging_mixin.py:109} INFO - [2022-02-13 00:22:07,503] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:22:07,539] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.966 seconds
+[2022-02-13 00:22:37,685] {processor.py:163} INFO - Started process (PID=418150) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:22:37,687] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:22:37,688] {logging_mixin.py:109} INFO - [2022-02-13 00:22:37,688] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:22:38,606] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:22:38,634] {logging_mixin.py:109} INFO - [2022-02-13 00:22:38,634] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:22:38,674] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.995 seconds
+[2022-02-13 00:23:08,717] {processor.py:163} INFO - Started process (PID=418195) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:23:08,719] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:23:08,720] {logging_mixin.py:109} INFO - [2022-02-13 00:23:08,720] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:23:09,750] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:23:09,761] {logging_mixin.py:109} INFO - [2022-02-13 00:23:09,761] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:23:09,795] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.083 seconds
+[2022-02-13 00:23:39,912] {processor.py:163} INFO - Started process (PID=418231) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:23:39,914] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:23:39,915] {logging_mixin.py:109} INFO - [2022-02-13 00:23:39,915] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:23:40,761] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:23:40,773] {logging_mixin.py:109} INFO - [2022-02-13 00:23:40,772] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:23:40,800] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.893 seconds
+[2022-02-13 00:24:10,931] {processor.py:163} INFO - Started process (PID=418267) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:24:10,933] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:24:10,934] {logging_mixin.py:109} INFO - [2022-02-13 00:24:10,934] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:24:11,796] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:24:11,807] {logging_mixin.py:109} INFO - [2022-02-13 00:24:11,807] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:24:11,835] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.909 seconds
+[2022-02-13 00:24:41,881] {processor.py:163} INFO - Started process (PID=418309) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:24:41,884] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:24:41,885] {logging_mixin.py:109} INFO - [2022-02-13 00:24:41,885] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:24:42,743] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:24:42,753] {logging_mixin.py:109} INFO - [2022-02-13 00:24:42,753] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:24:42,784] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.908 seconds
+[2022-02-13 00:25:12,996] {processor.py:163} INFO - Started process (PID=418342) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:25:12,998] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:25:12,999] {logging_mixin.py:109} INFO - [2022-02-13 00:25:12,999] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:25:13,844] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:25:13,856] {logging_mixin.py:109} INFO - [2022-02-13 00:25:13,856] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:25:13,886] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.895 seconds
+[2022-02-13 00:25:44,250] {processor.py:163} INFO - Started process (PID=418387) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:25:44,251] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:25:44,252] {logging_mixin.py:109} INFO - [2022-02-13 00:25:44,252] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:25:45,097] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:25:45,108] {logging_mixin.py:109} INFO - [2022-02-13 00:25:45,108] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:25:45,136] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.891 seconds
+[2022-02-13 00:26:15,369] {processor.py:163} INFO - Started process (PID=418424) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:26:15,372] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:26:15,372] {logging_mixin.py:109} INFO - [2022-02-13 00:26:15,372] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:26:16,234] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:26:16,245] {logging_mixin.py:109} INFO - [2022-02-13 00:26:16,244] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:26:16,263] {logging_mixin.py:109} INFO - [2022-02-13 00:26:16,262] {dag.py:2935} INFO - Setting next_dagrun for fhv_data_ingestion_gcs_dag to 2019-11-01T00:00:00+00:00
+[2022-02-13 00:26:16,273] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.910 seconds
+[2022-02-13 00:26:46,795] {processor.py:163} INFO - Started process (PID=418462) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:26:46,803] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:26:46,804] {logging_mixin.py:109} INFO - [2022-02-13 00:26:46,804] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:26:48,049] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:26:48,061] {logging_mixin.py:109} INFO - [2022-02-13 00:26:48,061] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:26:48,092] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.307 seconds
+[2022-02-13 00:27:18,167] {processor.py:163} INFO - Started process (PID=418507) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:27:18,168] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:27:18,169] {logging_mixin.py:109} INFO - [2022-02-13 00:27:18,169] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:27:19,023] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:27:19,034] {logging_mixin.py:109} INFO - [2022-02-13 00:27:19,034] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:27:19,063] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.902 seconds
+[2022-02-13 00:27:49,557] {processor.py:163} INFO - Started process (PID=418542) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:27:49,560] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:27:49,561] {logging_mixin.py:109} INFO - [2022-02-13 00:27:49,560] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:27:50,435] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:27:50,446] {logging_mixin.py:109} INFO - [2022-02-13 00:27:50,446] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:27:50,478] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 0.927 seconds
+[2022-02-13 00:28:21,148] {processor.py:163} INFO - Started process (PID=418576) to work on /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:28:21,152] {processor.py:642} INFO - Processing file /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py for tasks to queue
+[2022-02-13 00:28:21,154] {logging_mixin.py:109} INFO - [2022-02-13 00:28:21,154] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:28:22,757] {processor.py:654} INFO - DAG(s) dict_keys(['fhv_data_ingestion_gcs_dag']) retrieved from /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py
+[2022-02-13 00:28:22,838] {logging_mixin.py:109} INFO - [2022-02-13 00:28:22,838] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-13 00:28:22,926] {processor.py:171} INFO - Processing /opt/airflow/dags/fhv_data_ingestion_gcs_dag.py took 1.784 seconds
