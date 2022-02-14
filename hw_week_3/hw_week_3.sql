@@ -41,3 +41,9 @@ SELECT  COUNT(*) FROM `chu-de-zoomcamp-339115.chu_nytaxi.fhv_tripdata_q3`
 WHERE DATE(pickup_datetime) BETWEEN '2019-01-01' AND '2019-03-31'
 AND dispatching_base_num IN ('B00987', 'B02060', 'B02279');
 
+-- 5. 
+
+CREATE OR REPLACE TABLE `chu-de-zoomcamp-339115.chu_nytaxi.fhv_tripdata_q5`
+CLUSTER BY dispatching_base_num, SR_Flag AS
+SELECT  * FROM `chu-de-zoomcamp-339115.chu_nytaxi.fhv_tripdata`;
+
